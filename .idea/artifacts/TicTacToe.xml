@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="TicTacToe">
+    <output-path>$PROJECT_DIR$/out/artifacts/TicTacToe</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="TicTacToe.TicTacToe1_2" />
+        <option name="description" value="This is a simple Tic Tac Toe game" />
+        <option name="htmlParamFile" value="" />
+        <option name="paramFile" value="" />
+        <option name="title" value="TicTacToe" />
+        <option name="vendor" value="John_Conner" />
+        <option name="width" value="300" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="JavaFXApp.jar">
+        <element id="module-output" name="Tic_Tac_Toe" />
+      </element>
+    </root>
+  </artifact>
+</component>
